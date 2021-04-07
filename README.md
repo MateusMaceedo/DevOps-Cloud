@@ -1,2 +1,1 @@
-# DevOps-Cloud
-DevOps, is a culture in software engineering that brings together software developers and software operators / system administrators.
+<img src="https://roadmap.sh/roadmaps/devops.png" width="960" height="1790.78">
