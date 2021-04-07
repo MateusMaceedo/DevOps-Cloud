@@ -16,3 +16,16 @@ Devops é um termo criado para descrever um conjunto de práticas para integraç
 
 #### ***DevOps Roadmap***
 <img src="https://roadmap.sh/roadmaps/devops.png" width="960" height="1790.78">
+
+#### Configurar CI/CD
+INÍCIO RÁPIDO
+- <a class="has-external-link-indicator is-size-small is-block" href="devops-starter-gh-nodejs" data-linktype="relative-path">Node.js com o GitHub Actions</a>
+- <a class="has-external-link-indicator is-size-small is-block" href="azure-devops-project-aspnet-core" data-linktype="relative-path">.NET</a>
+- <a class="has-external-link-indicator is-size-small is-block" href="azure-devops-project-nodejs" data-linktype="relative-path">Node.js</a>
+- <a class="has-external-link-indicator is-size-small is-block" href="azure-devops-project-java" data-linktype="relative-path">Java</a>
+- <a class="has-external-link-indicator is-size-small is-block" href="azure-devops-project-python" data-linktype="relative-path">Python</a>
+- <a class="has-external-link-indicator is-size-small is-block" href="azure-devops-project-php" data-linktype="relative-path">PHP</a>
+- <a class="has-external-link-indicator is-size-small is-block" href="azure-devops-project-ruby" data-linktype="relative-path">Ruby</a>
+- <a class="has-external-link-indicator is-size-small is-block" href="azure-devops-project-go" data-linktype="relative-path">Go</a>
+
+[Documentação DevOps Starter para implantação no Azure](https://docs.microsoft.com/pt-br/azure/devops-project/)
